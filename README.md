@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 
-![Efeito de Digitação](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=40&pause=1000&color=Ff33cc&center=true&vCenter=true&width=430&lines=Hi+there+👋+;Welcome+🌟)
+![Efeito de Digitação](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=38&pause=1000&color=Ff33cc&center=true&vCenter=true&width=430&lines=Hi+there+👋+;Welcome+🌟)
 
 
 
